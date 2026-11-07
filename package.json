@@ -1,0 +1,22 @@
+{
+  "name": "token-lab-assignment",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test tests/learning.test.mjs"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "dependencies": {
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "lucide-react": "1.31.0",
+    "js-tiktoken": "1.0.21"
+  },
+  "devDependencies": {
+    "esbuild": "0.27.4"
+  }
+}
