@@ -2,7 +2,6 @@
 
 Topic 1: Tokenization and Context Window Management
 
-Applicant: Dhruv Bamal
 Format: a 45-minute self-paced interactive lesson for AI beginners.
 
 ## Quick start — no installation required
